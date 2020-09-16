@@ -1,11 +1,3 @@
-/*
- * Omar Beltran
- * RedID: 818036447
- * cssc2146
- * CS 570, Summer 2020
- * Assignment #1, Multiple Threads Manager
- * assignment.h
- */
 
 #include <stdlib.h>
 #include <stdio.h>  
