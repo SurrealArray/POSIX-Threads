@@ -16,6 +16,3 @@ List of significant design decisions:
 List of extra features:
 	Prints both user and OS made thread IDs.
 	
-Lessons learned:
-	Learned how to create and manage multiple threads and using the semaphore to control
-	this. Learned the basics of POSIX threads programming in C/C++.
