@@ -1,12 +1,3 @@
-/*
- * Omar Beltran 
- * RedID: 818036447
- * cssc2146
- * CS 570, Summer 2020
- * Assignment #1, Multiple Threads Manager
- * assignment.c
- */
-
 #include "assignment1.h"
 
 void *runThd(void *threadID){
