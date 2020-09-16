@@ -1,4 +1,4 @@
-#include "assignment1.h"
+#include "threads.h"
 
 void *runThd(void *threadID){
 
